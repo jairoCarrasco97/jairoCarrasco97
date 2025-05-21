@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![Profile_Banner_with_text_cutted_top]([[https://user-images.githubusercontent.com/57369924/132963641-5dc32b54-844c-4409-9eec-8f69ec03ba2c.png](https://github.com/jairoCarrasco97/jairoCarrasco97/blob/main/bannergif.gif?raw=true](https://github.com/jairoCarrasco97/jairoCarrasco97/blob/main/bannergif.gif?raw=true)))](https://github.com/jairoCarrasco97/jairoCarrasco97/blob/main/bannergif.gif?raw=true)
+![Bienvenido a mi perfil](banner.gif)
+
 <!--
 **jairoCarrasco97/jairoCarrasco97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
