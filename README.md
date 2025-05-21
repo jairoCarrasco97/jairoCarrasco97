@@ -2,7 +2,7 @@
 ![Bienvenido a mi perfil](bannergif.gif)
 
 <details align="middle">
-<summary><img src="cliclgif.gif" alt="Haz clic" width="200"/></summary>
+<summary><img src="cliclgif.gif" alt="Haz clic" width="50"/></summary>
 
 <br />
 Programador Junior con conocimientos básicos en ingeniería, me encanta la resolución de problemas, buscar soluciones eficientes y ¡disfrutar del proceso!
