@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Bienvenido a mi perfil](banner.gif)
+![Bienvenido a mi perfil](bannergif.gif)
 
 <!--
 **jairoCarrasco97/jairoCarrasco97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
