@@ -2,7 +2,7 @@
 ![Bienvenido a mi perfil](bannergif.gif)
 
 <details align="middle">
-<summary>Click</summary>
+<summary>![Bienvenido a mi perfil](cliclgif.gif)</summary>
 
 <br />
 Programador Junior con conocimientos básicos en ingeniería, me encanta la resolución de problemas, buscar soluciones eficientes y ¡disfrutar del proceso!
