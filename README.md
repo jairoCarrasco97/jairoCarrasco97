@@ -2,7 +2,9 @@
 ![Bienvenido a mi perfil](bannergif.gif)
 
 <details align="middle">
-<summary> ☝️</summary>
+<summary> 
+<img src="clicgif.gif" alt="Boton de apertura de texto" width="50" height="50">
+</summary>
 
 <br />
  Hola! soy Jairo 👋
