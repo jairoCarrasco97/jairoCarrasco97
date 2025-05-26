@@ -3,7 +3,7 @@
 
 <details align="middle">
 <summary> 
-![Bienvenido a mi perfil](clicgif.gif)
+☝
 </summary>
 
 <br />
