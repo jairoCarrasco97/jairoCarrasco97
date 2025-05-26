@@ -3,7 +3,7 @@
 
 <details align="middle">
 <summary> 
-<img src="clicgif.gif" alt="Boton de apertura de texto" width="50" height="50">
+![Bienvenido a mi perfil](clicgif.gif)
 </summary>
 
 <br />
