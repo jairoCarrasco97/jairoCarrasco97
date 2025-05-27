@@ -21,16 +21,18 @@ Comencé estudiando Ingeniería Eléctrica en 2016, ya que una de mis pasiones s
 Así encontré mi vocación, la programación.
 
 <br />
-### 🚀 Lenguajes 🚀
+<div style="text-align: left; max-width: 300px; margin: 0 auto;">
+ ### 🚀 Lenguajes 🚀
 
-- Java 📦
-- Html
-- Css
-- MySQL
+- ☕ Java  
+- 🌐 HTML  
+- 🎨 CSS  
+- 🗄️ MySQL  
 
+### 🛠️ Tecnologías 🛠️
 
-  ### 🛠️ Tecnologías 🛠️
+- 🧩 VS Code  
+- 🐙 Git / GitHub  
+- 🎨 Photoshop (Básico)
+</div>
 
-  - VS Code
-  - Git/GitHub
-  - Photoshop (Básico)
