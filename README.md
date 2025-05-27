@@ -35,5 +35,5 @@ Así encontré mi vocación, la programación.
 - 🐙 Git / GitHub  
 - 🎨 Photoshop (Básico)
 </div>
-<details />
+</details>
 
