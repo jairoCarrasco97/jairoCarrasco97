@@ -21,7 +21,7 @@ Comencé estudiando Ingeniería Eléctrica en 2016, ya que una de mis pasiones s
 Así encontré mi vocación, la programación.
 
 <br />
-<div style="text-align: left; max-width: 300px; margin: 0 auto;">
+<div style="display: inline-block; text-align: left; max-width: 300px;">
  <h3>🚀 Lenguajes 🚀</h3> 
 
 - ☕ Java  
@@ -29,7 +29,7 @@ Así encontré mi vocación, la programación.
 - 🎨 CSS  
 - 🗄️ MySQL  
 
-<h3>### 🛠️ Tecnologías 🛠️</h3>
+<h3>🛠️ Tecnologías 🛠️</h3>
 
 - 🧩 VS Code  
 - 🐙 Git / GitHub  
