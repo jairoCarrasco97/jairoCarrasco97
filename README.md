@@ -11,10 +11,10 @@
 
 <br />
 <p align="center">
- Programador Junior con conocimientos básicos en ingeniería, me encanta la resolución de problemas, buscar soluciones eficientes y
+ Programador Junior con conocimientos básicos en ingeniería, me encanta la resolución de problemas, buscar soluciones eficientes y </p>
+<p align="center> <h3>¡Disfrutar del proceso!</h3> </p>
 
-<h3>¡Disfrutar del proceso!</h3> 
-</p>
+
 
 <p align="center">
  Comencé estudiando Ingeniería Eléctrica en 2016, ya que una de mis pasiones son las matemáticas, la física y la resolución de problemas. Tras años de estudio y dedicación y varias asignaturas que involucraban programación,
