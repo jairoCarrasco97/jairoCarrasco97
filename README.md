@@ -7,7 +7,7 @@
 </summary>
 
 <br />
-<p> Hola! soy Jairo 👋</p>
+<p align="center"> Hola! soy Jairo 👋</p>
 
 <br />
 <p>
@@ -16,7 +16,7 @@
 ## ¡disfrutar del proceso!
 </p>
 
-<p>
+<p align="center">
  Comencé estudiando Ingeniería Eléctrica en 2016, ya que una de mis pasiones son las matemáticas, la física y la resolución de problemas. Tras años de estudio y dedicación y varias asignaturas que involucraban programación,
 
 ### ¡Quedé fascinado por la programación!
