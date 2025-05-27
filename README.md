@@ -7,18 +7,22 @@
 </summary>
 
 <br />
- Hola! soy Jairo 👋
-
+<p> Hola! soy Jairo 👋</p>
 
 <br />
-Programador Junior con conocimientos básicos en ingeniería, me encanta la resolución de problemas, buscar soluciones eficientes y
+<p>
+ Programador Junior con conocimientos básicos en ingeniería, me encanta la resolución de problemas, buscar soluciones eficientes y
 
 ## ¡disfrutar del proceso!
+</p>
 
-Comencé estudiando Ingeniería Eléctrica en 2016, ya que una de mis pasiones son las matemáticas, la física y la resolución de problemas. Tras años de estudio y dedicación y varias asignaturas que involucraban programación,
+<p>
+ Comencé estudiando Ingeniería Eléctrica en 2016, ya que una de mis pasiones son las matemáticas, la física y la resolución de problemas. Tras años de estudio y dedicación y varias asignaturas que involucraban programación,
 
 ### ¡Quedé fascinado por la programación!
 Así encontré mi vocación, la programación.
+</p>
+
 
 <br />
 <div style="display: inline-block; text-align: left; max-width: 300px;">
