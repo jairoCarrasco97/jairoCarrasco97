@@ -2,7 +2,7 @@
 ![Bienvenido a mi perfil](bannergif.gif)
 
 <details>
-<summary> 
+<summary align="center"> 
 ☝
 </summary>
 
