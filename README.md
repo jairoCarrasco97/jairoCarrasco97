@@ -6,11 +6,11 @@
 ☝
 </summary>
 
-<br />
+---
 <h2 align="center"> Hola! soy Jairo 👋</h2>
 
 <br />
-<br>
+---
 <p align="center">
  Programador Junior con conocimientos básicos en ingeniería, me encanta la resolución de problemas, buscar soluciones eficientes y </p>
 <h3 align="center"> ¡Disfrutar del proceso! 💪 </h3>
@@ -23,8 +23,8 @@
 <h3 align="center">
 ¡Quedé fascinado! 🤯
 </h3>
+---
 
-<br />
 <div style="display: inline-block; text-align: left; max-width: 300px;">
  <h3>🚀 Lenguajes 🚀</h3> 
 
