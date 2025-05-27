@@ -12,7 +12,7 @@
 <br />
 <p align="center">
  Programador Junior con conocimientos básicos en ingeniería, me encanta la resolución de problemas, buscar soluciones eficientes y </p>
-<h3 align="center"> ¡Disfrutar del proceso! </h3>
+<h3 align="center"> ¡Disfrutar del proceso! 💪 </h3>
 
 
 
