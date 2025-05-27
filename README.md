@@ -39,6 +39,8 @@
 - 🧩 VS Code  
 - 🐙 Git / GitHub  
 - 🎨 Photoshop (Básico)
+
+---
 </div>
 </details>
 
