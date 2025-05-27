@@ -10,7 +10,7 @@
 <p align="center"> Hola! soy Jairo 👋</p>
 
 <br />
-<p>
+<p align="center">
  Programador Junior con conocimientos básicos en ingeniería, me encanta la resolución de problemas, buscar soluciones eficientes y
 
 <h3>¡Disfrutar del proceso!</h3> 
