@@ -19,3 +19,18 @@ Comencé estudiando Ingeniería Eléctrica en 2016, ya que una de mis pasiones s
 
 ### ¡Quedé fascinado por la programación!
 Así encontré mi vocación, la programación.
+
+<br />
+### 🚀 Lenguajes 🚀
+
+- Java 📦
+- Html
+- Css
+- MySQL
+
+
+  ### 🛠️ Tecnologías 🛠️
+
+  - VS Code
+  - Git/GitHub
+  - Photoshop (Básico)
