@@ -17,5 +17,5 @@ Programador Junior con conocimientos básicos en ingeniería, me encanta la reso
 
 Comencé estudiando Ingeniería Eléctrica en 2016, ya que una de mis pasiones son las matemáticas, la física y la resolución de problemas. Tras años de estudio y dedicación y varias asignaturas que involucraban programación,
 
-### ¡Quedé fascinado por el mundo de la programación! ¡Podías imaginar lo que quisieras y programarlo!
+### ¡Quedé fascinado por la programación!
 Así encontré mi vocación, la programación.
