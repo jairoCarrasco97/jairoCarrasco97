@@ -16,13 +16,14 @@
 <h3 align="center"> ¡Disfrutar del proceso! 💪 </h3>
 
 
----
+
 <p align="center">
  Comencé estudiando Ingeniería Eléctrica en 2016, ya que una de mis pasiones son las matemáticas, la física y la resolución de problemas. Tras años de estudio y dedicación y varias asignaturas que involucraban programación,
 </p>
 <h3 align="center">
 ¡Quedé fascinado! 🤯
 </h3>
+
 ---
 
 <div style="display: inline-block; text-align: left; max-width: 300px;">
