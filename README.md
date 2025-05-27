@@ -19,7 +19,7 @@
 <p align="center">
  Comencé estudiando Ingeniería Eléctrica en 2016, ya que una de mis pasiones son las matemáticas, la física y la resolución de problemas. Tras años de estudio y dedicación y varias asignaturas que involucraban programación,
 
-### ¡Quedé fascinado por la programación!
+<h3>¡Quedé fascinado por la programación!</h3> 
 Así encontré mi vocación, la programación.
 </p>
 
