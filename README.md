@@ -22,14 +22,14 @@ Así encontré mi vocación, la programación.
 
 <br />
 <div style="text-align: left; max-width: 300px; margin: 0 auto;">
- ### 🚀 Lenguajes 🚀
+ <h3>🚀 Lenguajes 🚀</h3> 
 
 - ☕ Java  
 - 🌐 HTML  
 - 🎨 CSS  
 - 🗄️ MySQL  
 
-### 🛠️ Tecnologías 🛠️
+<h3>### 🛠️ Tecnologías 🛠️</h3>
 
 - 🧩 VS Code  
 - 🐙 Git / GitHub  
