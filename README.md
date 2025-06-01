@@ -7,7 +7,7 @@
 </summary>
 
 ---
-<h2 align="center"> Hola! soy Jairo 👋</h2>
+
 
 # ¡Hola! Soy Jairo 👋
 
