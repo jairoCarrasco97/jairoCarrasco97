@@ -11,7 +11,7 @@
 
 # ¡Hola! Soy Jairo 👋
 
-Soy programador junior con una base sólida en ingeniería. Me apasiona la resolución de problemas, encontrar soluciones eficientes y, sobre todo, disfrutar del proceso. 💪
+Soy programador junior con base en ingeniería. Me apasiona la resolución de problemas, encontrar soluciones eficientes y, sobre todo, disfrutar del proceso. 💪
 
 Comencé estudiando Ingeniería Eléctrica en 2016, impulsado por mi interés en las matemáticas, la física y la lógica. Durante esos años, descubrí mi verdadera pasión: la programación. ¡Quedé fascinado! 🤯
 
